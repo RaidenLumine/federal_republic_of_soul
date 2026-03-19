@@ -2,7 +2,7 @@
 
 ## Project Nature
 - This repository serves as a **static archive** for the fictional country "Federal Republic of Soul", born from the **author's wild imagination and whimsical ideas**.
-- It serves merely as an auxiliary management record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or updates.
+- It serves merely as an auxiliary management record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or updates, **let alone use it for any copyright infringement activities**.
 
 ## Core Concept: Administrative Amalgamation
 This setting attempts to answer a question pondered by the author: *"What if civilizations from multiple fantasy and sci-fi worlds were integrated into a single system, how would it operate?"*
@@ -31,18 +31,25 @@ The selection of all nouns (including both Chinese and English terminology) with
 
 **Example**: In this setting, the official English name for "史莱克城" is **"Shrek City"**, and the official Chinese name for "Endfield State" is **"未央州"**. These are established lore facts, not translation conclusions, regardless of what the original English or Chinese names of these elements were in their source materials.
 
-## Archive Contents
-- `constitution.md` - Constitution
-- `administrative_divisions.json` - Administrative divisions data (Nested JSON)
-- `docs/` - Core Documentation
-  - `state_overview.md` - State Overview
-  - `central_government.md` - Central Government Framework
-  - `ministry_of_magic.md` - Ministry of Magic Introduction
-  - `higher_education.md` - Higher Education Institutions
-  - `transport_hubs.md` - Major Transport Hubs
-  - `orbital_facilities.md` - Orbital Facilities Directory
-  - `supercomputing_systems.md` - Supercomputing Systems
-  - `administrative_summary.md` - Administrative Summary
+## Repository Structure
+```text
+FRS/ (Repository Root)
+├── docs/                                  # Core Documentation Directory
+│   ├── state_overview.md                  # State Overview
+│   ├── central_government.md              # Central Government Framework
+│   ├── ministry_of_magic.md               # Ministry of Magic Introduction
+│   ├── higher_education.md                # Higher Education Institutions
+│   ├── transport_hubs.md                  # Major Transport Hubs
+│   ├── orbital_facilities.md              # Orbital Facilities Directory
+│   ├── supercomputing_systems.md          # Supercomputing Systems
+│   └── administrative_summary.md          # Administrative Summary
+├── administrative_divisions.json          # Administrative divisions data (Flat JSON)
+├── json_to_csv.py                         # Data format conversion script
+├── constitution.md                        # State Constitution
+├── LICENSE                                # Open Source License
+├── README.md                              # Documentation in Chinese
+└── README.en.md                           # Documentation in English
+```
 
 ## License
 This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material for **non-commercial purposes only**, provided you follow these terms:
@@ -55,7 +62,7 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 
 ## About the Author
 - The setting was originally conceptualized in March 2020 (UTC+8) and archived to hosting platforms in March 2026 (UTC+8).
-- The author views this project as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided.**
+- The author views this project as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for any copyright infringement activities.**
 
 ---
 *Archival Version: v1.0*
