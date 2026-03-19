@@ -1,692 +1,537 @@
 [
   {
-    "州级行政区(State Administration)":"明都特别市（Sun-Moon Center Special City）",
-    "市级行政区(City Administration)":"明都（Sun-moon Center）",
-    "县级行政区(County Administration)":"王畿、日月、皓月、明德、传灵",
-    "备注（Notes）":"明都：斗罗联邦共和国首都"
+    "州级行政区(State Administration)": "明都特别市（Sun-Moon Center Special City）",
+    "市级行政区(City Administration)": "明都（Sun-moon Center）",
+    "县级行政区(County Administration)": "王畿、日月、皓月、明德、传灵",
+    "备注（Notes）": "明都：斗罗联邦共和国首都"
   },
   {
-    "州级行政区(State Administration)":"学园都市特别行政区（Academy City Special Administrative Region）",
-    "市级行政区(City Administration)":"学园都市（Academy City）",
-    "县级行政区(County Administration)":"上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春",
-    "备注（Notes）":"学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立"
+    "州级行政区(State Administration)": "学园都市特别行政区（Academy City Special Administrative Region）",
+    "市级行政区(City Administration)": "学园都市（Academy City）",
+    "县级行政区(County Administration)": "上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春",
+    "备注（Notes）": "学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立"
   },
   {
-    "州级行政区(State Administration)":"镜像伦敦大型试验场（SCP-1678 Large Scale Experiment Station）",
-    "市级行政区(City Administration)":"镜像伦敦（SCP-1678）",
-    "县级行政区(County Administration)":"上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春",
-    "备注（Notes）":"学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立"
+    "州级行政区(State Administration)": "镜像伦敦大型试验场（SCP-1678 Large Scale Experiment Station）",
+    "市级行政区(City Administration)": "镜像伦敦（SCP-1678）"
   },
   {
-    "州级行政区(State Administration)":"阿斯加德特别市（Asgard Special City）",
-    "市级行政区(City Administration)":"阿斯加德（Asgard）",
-    "县级行政区(County Administration)":"上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春",
-    "备注（Notes）":"学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立"
+    "州级行政区(State Administration)": "阿斯加德特别市（Asgard Special City）",
+    "市级行政区(City Administration)": "阿斯加德（Asgard）"
   },
   {
-    "州级行政区(State Administration)":"新艾利都特别市（New Eridu Special City）",
-    "市级行政区(City Administration)":"新艾利都（New Eridu）",
-    "县级行政区(County Administration)":"丽都、旧都、澄辉、芭莱、星环、云岿",
-    "备注（Notes）":"学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立"
+    "州级行政区(State Administration)": "新艾利都特别市（New Eridu Special City）",
+    "市级行政区(City Administration)": "新艾利都（New Eridu）",
+    "县级行政区(County Administration)": "丽都、旧都、澄辉、芭莱、星环、云岿"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"天斗（Tantow）",
-    "县级行政区(County Administration)":"蓝皇、琉璃",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "天斗（Tantow）",
+    "县级行政区(County Administration)": "蓝皇、琉璃",
+    "备注（Notes）": "天斗：天斗州首府"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"史莱克城（Shrek City）",
-    "县级行政区(County Administration)":"永恒、灵冰、蓝银",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "史莱克城（Shrek City）",
+    "县级行政区(County Administration)": "永恒、灵冰、蓝银"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"春日影（Haruhikage）",
-    "县级行政区(County Administration)":"丰川、高松、千早、椎名、长崎、若叶、八幡、三角",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "春日影（Haruhikage）",
+    "县级行政区(County Administration)": "丰川、高松、千早、椎名、长崎、若叶、八幡、三角"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"落霞（Afterglow）",
-    "县级行政区(County Administration)":"美竹、凑城、冰川、今井、宇田川、朝日、鳰原、白鹭、羽泽",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "落霞（Afterglow）",
+    "县级行政区(County Administration)": "美竹、凑城、冰川、今井、宇田川、朝日、鳰原、白鹭、羽泽"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"梦蝶（Morfonica）",
-    "县级行政区(County Administration)":"户山、市谷、花园、濑田、弦卷、丸山、桐谷、仓田、山吹",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "梦蝶（Morfonica）",
+    "县级行政区(County Administration)": "户山、市谷、花园、濑田、弦卷、丸山、桐谷、仓田、山吹"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"沧海（Canghai）",
-    "县级行政区(County Administration)":"户山、市谷、花园、濑田、弦卷、丸山、桐谷、仓田、山吹",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "沧海（Canghai）"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"天罗（Tanrow）",
-    "县级行政区(County Administration)":"傲龙",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "天罗（Tanrow）",
+    "县级行政区(County Administration)": "傲龙"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"产屋敷（Ubuyushiki）",
-    "县级行政区(County Administration)":"灶门、富冈、鳞泷、继国、炼狱、时透、不死川、悲鸣屿、甘露寺、伊黑",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "产屋敷（Ubuyushiki）",
+    "县级行政区(County Administration)": "灶门、富冈、鳞泷、继国、炼狱、时透、不死川、悲鸣屿、甘露寺、伊黑"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"陈溏（Chentang）",
-    "县级行政区(County Administration)":"东海、太乙、托塔、殷都、玉虚",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "陈溏（Chentang）",
+    "县级行政区(County Administration)": "东海、太乙、托塔、殷都、玉虚"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"新川崎（New Kawasaki）",
-    "县级行政区(County Administration)":"桃香、井芹、安和、后藤、虹夏、平泽、喜多",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "新川崎（New Kawasaki）",
+    "县级行政区(County Administration)": "桃香、井芹、安和、后藤、虹夏、平泽、喜多"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"星港（Starport）",
-    "县级行政区(County Administration)":"桃香、井芹、安和、后藤、虹夏、平泽、喜多",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "星港（Starport）"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"龙城（Ryongseong）",
-    "县级行政区(County Administration)":"桃香、井芹、安和、后藤、虹夏、平泽、喜多",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "龙城（Ryongseong）"
   },
   {
-    "州级行政区(State Administration)":"天斗州（Tantow State）",
-    "市级行政区(City Administration)":"祺祥（Qixiang）",
-    "县级行政区(County Administration)":"桃香、井芹、安和、后藤、虹夏、平泽、喜多",
-    "备注（Notes）":"天斗：天斗州首府"
+    "州级行政区(State Administration)": "天斗州（Tantow State）",
+    "市级行政区(City Administration)": "祺祥（Qixiang）"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"星罗（Hsinrow）",
-    "县级行政区(County Administration)":"白虎、幽冥、昊天",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "星罗（Hsinrow）",
+    "县级行政区(County Administration)": "白虎、幽冥、昊天",
+    "备注（Notes）": "星罗：星罗州首府"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"哥谭（Gotham）",
-    "县级行政区(County Administration)":"白虎、幽冥、昊天",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "哥谭（Gotham）"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"汉川（Hanchuan）",
-    "县级行政区(County Administration)":"江东、沧海",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "汉川（Hanchuan）",
+    "县级行政区(County Administration)": "江东、沧海"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"丘枫（Qiufeng）",
-    "县级行政区(County Administration)":"枫兰、桑田、山阴",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "丘枫（Qiufeng）",
+    "县级行政区(County Administration)": "枫兰、桑田、山阴"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"赤霄（Akaisho）",
-    "县级行政区(County Administration)":"茅森、和泉、东城、丰后、樋口、立华",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "赤霄（Akaisho）",
+    "县级行政区(County Administration)": "茅森、和泉、东城、丰后、樋口、立华"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"圭都（Guidu）",
-    "县级行政区(County Administration)":"茅森、和泉、东城、丰后、樋口、立华",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "圭都（Guidu）"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"阿朱罗（Ashura）",
-    "县级行政区(County Administration)":"百夜、一濑、亚瑟拉、克鲁鲁、弗里德",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "阿朱罗（Ashura）",
+    "县级行政区(County Administration)": "百夜、一濑、亚瑟拉、克鲁鲁、弗里德"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"天穹（Tianqiong）",
-    "县级行政区(County Administration)":"百夜、一濑、亚瑟拉、克鲁鲁、弗里德",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "天穹（Tianqiong）"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"出云（Izumo）",
-    "县级行政区(County Administration)":"高天原、忘川",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "出云（Izumo）",
+    "县级行政区(County Administration)": "高天原、忘川"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"望北（Wangbei）",
-    "县级行政区(County Administration)":"高天原、忘川",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "望北（Wangbei）"
   },
   {
-    "州级行政区(State Administration)":"星罗州（Hsinrow State）",
-    "市级行政区(City Administration)":"涂山（Tushan）",
-    "县级行政区(County Administration)":"白月、王权、东方",
-    "备注（Notes）":"星罗：星罗州首府"
+    "州级行政区(State Administration)": "星罗州（Hsinrow State）",
+    "市级行政区(City Administration)": "涂山（Tushan）",
+    "县级行政区(County Administration)": "白月、王权、东方"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"森罗（Hsenrow）",
-    "县级行政区(County Administration)":"白月、王权、东方",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "森罗（Hsenrow）",
+    "备注（Notes）": "森罗：森罗州首府"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"绯村（Himura）",
-    "县级行政区(County Administration)":"神谷、相乐、明神、斋藤、高荷、比古、雪代、卷町",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "绯村（Himura）",
+    "县级行政区(County Administration)": "神谷、相乐、明神、斋藤、高荷、比古、雪代、卷町"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"紫罗兰城（Violet City）",
-    "县级行政区(County Administration)":"鸢尾、栀子、月季、三角梅、滇丁香",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "紫罗兰城（Violet City）",
+    "县级行政区(County Administration)": "鸢尾、栀子、月季、三角梅、滇丁香"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"樱庭（Sakuraba）",
-    "县级行政区(County Administration)":"樱岛、折木、六花、梓川、比企谷、雪之下、温水、千反田、富樫",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "樱庭（Sakuraba）",
+    "县级行政区(County Administration)": "樱岛、折木、六花、梓川、比企谷、雪之下、温水、千反田、富樫"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"言叶（Kotonoha）",
-    "县级行政区(County Administration)":"立花、宫水、森岛、天野、铃芽、西宫",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "言叶（Kotonoha）",
+    "县级行政区(County Administration)": "立花、宫水、森岛、天野、铃芽、西宫"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"花港（Floraport）",
-    "县级行政区(County Administration)":"山茶花、九苍、风信子、勿忘我、蔷薇、曼陀罗、圣罗勒",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "花港（Floraport）",
+    "县级行政区(County Administration)": "山茶花、九苍、风信子、勿忘我、蔷薇、曼陀罗、圣罗勒"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"花千屿（Florasia）",
-    "县级行政区(County Administration)":"雪城",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "花千屿（Florasia）",
+    "县级行政区(County Administration)": "雪城"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"拉贝尔（Rabel）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "拉贝尔（Rabel）",
+    "县级行政区(County Administration)": "古灵仙、黄海、勇气"
   },
   {
-    "州级行政区(State Administration)":"森罗州（Hsenrow State）",
-    "市级行政区(City Administration)":"帕拉尼（Parani）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"森罗：森罗州首府"
+    "州级行政区(State Administration)": "森罗州（Hsenrow State）",
+    "市级行政区(City Administration)": "帕拉尼（Parani）"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"赫尔卡城（Helca City）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "赫尔卡城（Helca City）",
+    "备注（Notes）": "赫尔卡城：花仙州首府"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"洛克城（Roco City）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "洛克城（Roco City）"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"比奇堡（Bikiniburg）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "比奇堡（Bikiniburg）"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"浮空城（Floating City）",
-    "县级行政区(County Administration)":"古灵仙、黄海、勇气",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "浮空城（Floating City）"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"奥拉城（Aolah City）",
-    "县级行政区(County Administration)":"奥奇、奥义、奥比",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "奥拉城（Aolah City）",
+    "县级行政区(County Administration)": "奥奇、奥义、奥比"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"圣迪迦城（Saint Tiga City）",
-    "县级行政区(County Administration)":"亚刻、赛罗、诺亚、捷德、泰罗、银河",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "圣迪迦城（Saint Tiga City）",
+    "县级行政区(County Administration)": "亚刻、赛罗、诺亚、捷德、泰罗、银河"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"阿莱达（Aleda）",
-    "县级行政区(County Administration)":"亚刻、赛罗、诺亚、捷德、泰罗、银河",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "阿莱达（Aleda）"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"阿瑞斯城（Ares City）",
-    "县级行政区(County Administration)":"刑天、飞影、金刚、修罗",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "阿瑞斯城（Ares City）",
+    "县级行政区(County Administration)": "刑天、飞影、金刚、修罗"
   },
   {
-    "州级行政区(State Administration)":"花仙州（Flower Angel State）",
-    "市级行政区(City Administration)":"阿德里城（Adria City）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"赫尔卡城：花仙州首府"
+    "州级行政区(State Administration)": "花仙州（Flower Angel State）",
+    "市级行政区(City Administration)": "阿德里城（Adria City）",
+    "县级行政区(County Administration)": "启源、星城、古灵、灰心"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"坎特洛特（Canterlot）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "坎特洛特（Canterlot）",
+    "备注（Notes）": "坎特洛特：小马利亚州首府"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"小马谷（Ponyville）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "小马谷（Ponyville）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"云中城（Cloudsdale）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "云中城（Cloudsdale）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"苹果鲁萨（Appleloosa）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "苹果鲁萨（Appleloosa）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"狮鹫岛（Griffonia）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "狮鹫岛（Griffonia）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"塔他洛斯（Tartarus）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "塔他洛斯（Tartarus）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"亚克斯坦（Yakyakistan）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "亚克斯坦（Yakyakistan）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"水晶城（Crystal City）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "水晶城（Crystal City）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"洛马基（Las Pegasus）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "洛马基（Las Pegasus）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"海马利亚（Seaquestria）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "海马利亚（Seaquestria）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"龙之域（Dracoland）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "龙之域（Dracoland）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"小马达菲亚（Fillydelphia）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "小马达菲亚（Fillydelphia）"
   },
   {
-    "州级行政区(State Administration)":"小马利亚州（Equestria State）",
-    "市级行政区(City Administration)":"马哈顿（Manehattan）",
-    "县级行政区(County Administration)":"启源、星城、古灵、灰心",
-    "备注（Notes）":"坎特洛特：小马利亚州首府"
+    "州级行政区(State Administration)": "小马利亚州（Equestria State）",
+    "市级行政区(City Administration)": "马哈顿（Manehattan）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"霍格沃茨（Hogvarts）",
-    "县级行政区(County Administration)":"斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "霍格沃茨（Hogvarts）",
+    "县级行政区(County Administration)": "斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
+    "备注（Notes）": "霍格沃茨：圣梅林州首府"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"圣梅林城（Saint Merlin City）",
-    "县级行政区(County Administration)":"斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "圣梅林城（Saint Merlin City）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"布斯巴顿（Beauxbatons）",
-    "县级行政区(County Administration)":"斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "布斯巴顿（Beauxbatons）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"德姆斯特朗（Durmstrang）",
-    "县级行政区(County Administration)":"斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "德姆斯特朗（Durmstrang）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"阿兰星落（Alain Starfall）",
-    "县级行政区(County Administration)":"斯莱特林、格兰芬多、赫奇帕奇、拉文克劳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "阿兰星落（Alain Starfall）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"圣芙莉莲（Saint Frieren）",
-    "县级行政区(County Administration)":"菲伦、休塔尔克、赞因、辛美尔、海塔、艾泽",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "圣芙莉莲（Saint Frieren）",
+    "县级行政区(County Administration)": "菲伦、休塔尔克、赞因、辛美尔、海塔、艾泽"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"东方（Touhou）",
-    "县级行政区(County Administration)":"博丽、雾雨、上白泽、雾泽、红魔馆、八意、八坂、命莲、丰聪、太阳花、后户、八云",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "东方（Touhou）",
+    "县级行政区(County Administration)": "博丽、雾雨、上白泽、雾泽、红魔馆、八意、八坂、命莲、丰聪、太阳花、后户、八云"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"鸟白（Torishiro）",
-    "县级行政区(County Administration)":"鹰原、加藤、鸣濑、空门、久岛、䌷海、水织、野村、三谷、加纳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "鸟白（Torishiro）",
+    "县级行政区(County Administration)": "鹰原、加藤、鸣濑、空门、久岛、䌷海、水织、野村、三谷、加纳"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"北落师门（Fomalhaut）",
-    "县级行政区(County Administration)":"鹰原、加藤、鸣濑、空门、久岛、䌷海、水织、野村、三谷、加纳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "北落师门（Fomalhaut）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"阿兹卡班（Azkaban）",
-    "县级行政区(County Administration)":"鹰原、加藤、鸣濑、空门、久岛、䌷海、水织、野村、三谷、加纳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "阿兹卡班（Azkaban）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"尤加特拉希（Yggdrasill）",
-    "县级行政区(County Administration)":"鹰原、加藤、鸣濑、空门、久岛、䌷海、水织、野村、三谷、加纳",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "尤加特拉希（Yggdrasill）"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"魔仙堡（Magicberg）",
-    "县级行政区(County Administration)":"彩灵、海灵",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "魔仙堡（Magicberg）",
+    "县级行政区(County Administration)": "彩灵、海灵"
   },
   {
-    "州级行政区(State Administration)":"圣梅林州（Saint Merlin State）",
-    "市级行政区(City Administration)":"冬木（Fuyuki）",
-    "县级行政区(County Administration)":"卫宫、远坂、间桐、爱因兹贝伦、柳洞、朔月、藤丸",
-    "备注（Notes）":"霍格沃茨：圣梅林州首府"
+    "州级行政区(State Administration)": "圣梅林州（Saint Merlin State）",
+    "市级行政区(City Administration)": "冬木（Fuyuki）",
+    "县级行政区(County Administration)": "卫宫、远坂、间桐、爱因兹贝伦、柳洞、朔月、藤丸"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"天空岛（Celestia）",
-    "县级行政区(County Administration)":"卫宫、远坂、间桐、爱因兹贝伦、柳洞、朔月、藤丸",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "天空岛（Celestia）",
+    "备注（Notes）": "天空岛：提瓦特州首府"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"蒙德（Mondsdalt）",
-    "县级行政区(County Administration)":"新蒙德、晨曦、芬德尼尔、明冠、千风、达达乌帕、荆夫",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "蒙德（Mondsdalt）",
+    "县级行政区(County Administration)": "新蒙德、晨曦、芬德尼尔、明冠、千风、达达乌帕、荆夫"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"璃月（Liyue）",
-    "县级行政区(County Administration)":"云来、轻策、归离、珉林、璃沙、琅玕、沉玉",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "璃月（Liyue）",
+    "县级行政区(County Administration)": "云来、轻策、归离、珉林、璃沙、琅玕、沉玉"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"稻妻（Inazuma）",
-    "县级行政区(County Administration)":"鸣神、海祇、清籁、八酝、鹤观、踏鞴、白夜",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "稻妻（Inazuma）",
+    "县级行政区(County Administration)": "鸣神、海祇、清籁、八酝、鹤观、踏鞴、白夜"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"枫丹（Fontaine）",
-    "县级行政区(County Administration)":"枫丹廷、白露、伊黎耶、芒索斯、水仙十字、佩特莉可、雷穆利亚",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "枫丹（Fontaine）",
+    "县级行政区(County Administration)": "枫丹廷、白露、伊黎耶、芒索斯、水仙十字、佩特莉可、雷穆利亚"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"须弥（Sumeru）",
-    "县级行政区(County Administration)":"净善、化城、桓那兰那、奥摩斯、阿如、居尔、浮梦囿",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "须弥（Sumeru）",
+    "县级行政区(County Administration)": "净善、化城、桓那兰那、奥摩斯、阿如、居尔、浮梦囿"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"至冬（Snezhnaya）",
-    "县级行政区(County Administration)":"至冬堡、新基捷",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "至冬（Snezhnaya）",
+    "县级行政区(County Administration)": "至冬堡、新基捷"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"纳塔（Natlan）",
-    "县级行政区(County Administration)":"米克特兰、维茨特兰、纳茨卡廷、梅兹特利、特拉洛坎、特特奥坎、奥奇卡纳塔、图兰、特诺奇兹托克",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "纳塔（Natlan）",
+    "县级行政区(County Administration)": "米克特兰、维茨特兰、纳茨卡廷、梅兹特利、特拉洛坎、特特奥坎、奥奇卡纳塔、图兰、特诺奇兹托克"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"坎瑞亚（Khaenri'ah）",
-    "县级行政区(County Administration)":"米克特兰、维茨特兰、纳茨卡廷、梅兹特利、特拉洛坎、特特奥坎、奥奇卡纳塔、图兰、特诺奇兹托克",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "坎瑞亚（Khaenri'ah）"
   },
   {
-    "州级行政区(State Administration)":"提瓦特州（Teyvat State）",
-    "市级行政区(City Administration)":"挪德卡莱（Nod-Krai）",
-    "县级行政区(County Administration)":"伦波、希汐、帕哈、皮拉米达",
-    "备注（Notes）":"天空岛：提瓦特州首府"
+    "州级行政区(State Administration)": "提瓦特州（Teyvat State）",
+    "市级行政区(City Administration)": "挪德卡莱（Nod-Krai）",
+    "县级行政区(County Administration)": "伦波、希汐、帕哈、皮拉米达"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"罗德岛（Rhodes）",
-    "县级行政区(County Administration)":"伦波、希汐、帕哈、皮拉米达",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "罗德岛（Rhodes）",
+    "备注（Notes）": "罗德岛：明日州首府"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"炎国（Yen）",
-    "县级行政区(County Administration)":"百灶、龙门、尚蜀、玉门、勾吴、姜齐、夕城、黄城、春都、花郡、丹燕",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "炎国（Yen）",
+    "县级行政区(County Administration)": "百灶、龙门、尚蜀、玉门、勾吴、姜齐、夕城、黄城、春都、花郡、丹燕"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"谢拉格（Kjerag）",
-    "县级行政区(County Administration)":"图里卡姆、马特洪、喀兰",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "谢拉格（Kjerag）",
+    "县级行政区(County Administration)": "图里卡姆、马特洪、喀兰"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"维多利亚（Victoria）",
-    "县级行政区(County Administration)":"伦蒂尼姆、多伦、阿斯卡拉、塞克、特伦特、布伦特伍德、格瑞威治、丽茵卡登、博森德尔",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "维多利亚（Victoria）",
+    "县级行政区(County Administration)": "伦蒂尼姆、多伦、阿斯卡拉、塞克、特伦特、布伦特伍德、格瑞威治、丽茵卡登、博森德尔"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"乌萨斯（Ursus）",
-    "县级行政区(County Administration)":"圣骏堡、切尔诺伯格、布列洁诺伊、格里高利、格里高利",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "乌萨斯（Ursus）",
+    "县级行政区(County Administration)": "圣骏堡、切尔诺伯格、布列洁诺伊、格里高利、格里高利"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"伊比利亚（Iberia）",
-    "县级行政区(County Administration)":"佩尔多尼、格兰法洛、盐风、港都",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "伊比利亚（Iberia）",
+    "县级行政区(County Administration)": "佩尔多尼、格兰法洛、盐风、港都"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"拉特兰（Laterano）",
-    "县级行政区(County Administration)":"司提望、安布罗修、法柏尔、格芬、米迦莱昂、圣马尔索、伊卡莱西亚",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "拉特兰（Laterano）",
+    "县级行政区(County Administration)": "司提望、安布罗修、法柏尔、格芬、米迦莱昂、圣马尔索、伊卡莱西亚"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"卡西米尔（Kazimierz）",
-    "县级行政区(County Administration)":"卡瓦莱利亚基、茨沃涅克、奥格尼斯科",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "卡西米尔（Kazimierz）",
+    "县级行政区(County Administration)": "卡瓦莱利亚基、茨沃涅克、奥格尼斯科"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"莱塔尼亚（Leithanien）",
-    "县级行政区(County Administration)":"海登施威尔、沃伦姆德、崔林特尔梅、瓦瑟领、福特冈、奥施登海姆、凯普拉尼、厄登赫尔",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "莱塔尼亚（Leithanien）",
+    "县级行政区(County Administration)": "海登施威尔、沃伦姆德、崔林特尔梅、瓦瑟领、福特冈、奥施登海姆、凯普拉尼、厄登赫尔"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"卡兹戴尔（Kazdel）",
-    "县级行政区(County Administration)":"海登施威尔、沃伦姆德、崔林特尔梅、瓦瑟领、福特冈、奥施登海姆、凯普拉尼、厄登赫尔",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "卡兹戴尔（Kazdel）"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"叙拉古（Siracusa）",
-    "县级行政区(County Administration)":"蒙特卢佩、七丘、怀特、拉克玛蒂瓦、帕勒莫、沃尔西尼",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "叙拉古（Siracusa）",
+    "县级行政区(County Administration)": "蒙特卢佩、七丘、怀特、拉克玛蒂瓦、帕勒莫、沃尔西尼"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"萨尔贡（Sargon）",
-    "县级行政区(County Administration)":"阿卡胡拉、伊巴特、费坤、瓦伊凡、米纳特哈玛仪、凯尔图恩",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "萨尔贡（Sargon）",
+    "县级行政区(County Administration)": "阿卡胡拉、伊巴特、费坤、瓦伊凡、米纳特哈玛仪、凯尔图恩"
   },
   {
-    "州级行政区(State Administration)":"明日州（Arknights State）",
-    "市级行政区(City Administration)":"米诺斯（Minos）",
-    "县级行政区(County Administration)":"爱琴、科林尼亚、雅赛努斯、拉刻代蒙、阿涅斯、荷谟伊",
-    "备注（Notes）":"罗德岛：明日州首府"
+    "州级行政区(State Administration)": "明日州（Arknights State）",
+    "市级行政区(City Administration)": "米诺斯（Minos）",
+    "县级行政区(County Administration)": "爱琴、科林尼亚、雅赛努斯、拉刻代蒙、阿涅斯、荷谟伊"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"圣芙蕾雅（Saint Freya）",
-    "县级行政区(County Administration)":"卡斯兰娜、阿波卡利斯、芙乐艾、扎伊切克、阿塔吉娜、洛丝薇瑟",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "圣芙蕾雅（Saint Freya）",
+    "县级行政区(County Administration)": "卡斯兰娜、阿波卡利斯、芙乐艾、扎伊切克、阿塔吉娜、洛丝薇瑟",
+    "备注（Notes）": "圣芙蕾雅: 圣芙蕾雅州首府"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"庇尔波因特（Pierpoint）",
-    "县级行政区(County Administration)":"钻石、砂金、翡翠、托帕、琥珀、龙晶、苍刚、真珠、舒俱、欧珀、玛瑙",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "庇尔波因特（Pierpoint）",
+    "县级行政区(County Administration)": "钻石、砂金、翡翠、托帕、琥珀、龙晶、苍刚、真珠、舒俱、欧珀、玛瑙"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"仙舟（Xianzhou）",
-    "县级行政区(County Administration)":"虚陵、罗浮、曜青、朱明、玉阙、方壶、苍城、圆峤、岱舆",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "仙舟（Xianzhou）",
+    "县级行政区(County Administration)": "虚陵、罗浮、曜青、朱明、玉阙、方壶、苍城、圆峤、岱舆"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"匹诺康尼（Penokony）",
-    "县级行政区(County Administration)":"黄金、热砂、流梦礁、子夜、朝露、黎明、绿洲、薄暮、蓝调、星辰",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "匹诺康尼（Penokony）",
+    "县级行政区(County Administration)": "黄金、热砂、流梦礁、子夜、朝露、黎明、绿洲、薄暮、蓝调、星辰"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"格拉默（Glamour）",
-    "县级行政区(County Administration)":"黄金、热砂、流梦礁、子夜、朝露、黎明、绿洲、薄暮、蓝调、星辰",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "格拉默（Glamour）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"黑塔（Herta）",
-    "县级行政区(County Administration)":"黄金、热砂、流梦礁、子夜、朝露、黎明、绿洲、薄暮、蓝调、星辰",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "黑塔（Herta）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"朋克洛德（Punklorde）",
-    "县级行政区(County Administration)":"黄金、热砂、流梦礁、子夜、朝露、黎明、绿洲、薄暮、蓝调、星辰",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "朋克洛德（Punklorde）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"翁法罗斯（Amphoreus）",
-    "县级行政区(County Administration)":"奥赫玛、雅努萨城、斯缇科西亚、悬锋、哀地里亚、神悟庭、晨昏、多洛斯、哀丽秘榭",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "翁法罗斯（Amphoreus）",
+    "县级行政区(County Administration)": "奥赫玛、雅努萨城、斯缇科西亚、悬锋、哀地里亚、神悟庭、晨昏、多洛斯、哀丽秘榭"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"茨冈尼亚（Sigonia）",
-    "县级行政区(County Administration)":"奥赫玛、雅努萨城、斯缇科西亚、悬锋、哀地里亚、神悟庭、晨昏、多洛斯、哀丽秘榭",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "茨冈尼亚（Sigonia）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"贝洛伯格（Belobog）",
-    "县级行政区(County Administration)":"奥赫玛、雅努萨城、斯缇科西亚、悬锋、哀地里亚、神悟庭、晨昏、多洛斯、哀丽秘榭",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "贝洛伯格（Belobog）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"哈托彼亚（Ahatopia）",
-    "县级行政区(County Administration)":"二维、鸽川、绘世",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "哈托彼亚（Ahatopia）",
+    "县级行政区(County Administration)": "二维、鸽川、绘世"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"千星城（Astropolis）",
-    "县级行政区(County Administration)":"二维、鸽川、绘世",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "千星城（Astropolis）"
   },
   {
-    "州级行政区(State Administration)":"圣芙蕾雅州 (Saint Freya State)",
-    "市级行政区(City Administration)":"长空（Nagazora）",
-    "县级行政区(County Administration)":"千羽、八重、雷电、时雨、无量塔",
-    "备注（Notes）":"圣芙蕾雅: 圣芙蕾雅州首府"
+    "州级行政区(State Administration)": "圣芙蕾雅州 (Saint Freya State)",
+    "市级行政区(City Administration)": "长空（Nagazora）",
+    "县级行政区(County Administration)": "千羽、八重、雷电、时雨、无量塔"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"帝江（Dijiang）",
-    "县级行政区(County Administration)":"千羽、八重、雷电、时雨、无量塔",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "帝江（Dijiang）",
+    "备注（Notes）": "帝江：未央州首府"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"宏山（Hongshan）",
-    "县级行政区(County Administration)":"武陵、景玉、清波",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "宏山（Hongshan）",
+    "县级行政区(County Administration)": "武陵、景玉、清波"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"菈梵朵玛",
-    "县级行政区(County Administration)":"武陵、景玉、清波",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "菈梵朵玛"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"塞什卡",
-    "县级行政区(County Administration)":"武陵、景玉、清波",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "塞什卡"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"耶尔什",
-    "县级行政区(County Administration)":"武陵、景玉、清波",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "耶尔什"
   },
   {
-    "州级行政区(State Administration)":"未央州（Endfield State）",
-    "市级行政区(City Administration)":"合金萝卜城",
-    "县级行政区(County Administration)":"武陵、景玉、清波",
-    "备注（Notes）":"帝江：未央州首府"
+    "州级行政区(State Administration)": "未央州（Endfield State）",
+    "市级行政区(City Administration)": "合金萝卜城"
   }
 ]
