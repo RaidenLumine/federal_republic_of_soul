@@ -1,8 +1,8 @@
 # Federal Republic of Soul - Archive
 
-## Project Nature
-- This repository serves as a **static archive** for the fictional country "Federal Republic of Soul", born from the **author's wild imagination and whimsical ideas**.
-- It serves merely as an auxiliary management record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or updates, **let alone use it for any copyright infringement activities**.
+## Nature of this Archive
+- This repository is merely a **personal cloud storage space** (it cannot be considered a "project"). It is used to store static setting files for the fictional country "Federal Republic of Soul", born from the **author's wild imagination and whimsical ideas**.
+- It serves strictly as a personal auxiliary backup and sealed record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or releases, **let alone use it for commercial purposes or any copyright infringement activities**.
 
 ## Core Concept: Administrative Amalgamation
 This setting attempts to answer a question pondered by the author: *"What if civilizations from multiple fantasy and sci-fi worlds were integrated into a single system, how would it operate?"*
@@ -18,7 +18,7 @@ This setting attempts to answer a question pondered by the author: *"What if civ
 | **Urban Legends** | *Touhou Project* Series | Gensokyo City, Spell Card peacekeeping regulations |
 
 **Typical Amalgamation Cases**:
-- **The Fool's Shrine**: Designated as a historical and cultural monument, occasionally serving as a special tribunal.
+- **Fatui Shrine**: Designated as a historical and cultural monument, occasionally serving as a special tribunal.
 - **Ministry of Magic**: A core department under the Imperial Executive Yuan, featuring various localized sub-departments to vertically manage and regulate distinct magic systems from different cultural backgrounds.
 
 ## Note on Terminology and Translation
@@ -57,12 +57,13 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 2. **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 > **⚠️ Important Disclaimer**:
+> This project is an **unofficial, non-profit, fan-made project**.
 > Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs. **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
 > This license applies strictly to the **original amalgamated structure and administrative logic** within this repository. All referenced IP elements, their copyrights, and ultimate interpretation rights remain the sole property of their respective copyright holders.
 
 ## About the Author
 - The setting was originally conceptualized in March 2020 (UTC+8) and archived to hosting platforms in March 2026 (UTC+8).
-- The author views this project as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for any copyright infringement activities.**
+- The author views this archive as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for commercial purposes or any copyright infringement activities.**
 
 ---
-*Archival Version: v1.2*
+*Archival Version: v1.3*
