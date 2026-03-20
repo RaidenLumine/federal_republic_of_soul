@@ -36,20 +36,27 @@
 FRS/ (Repository Root)
 ├── docs/                                  # 核心设定分册目录
 │   ├── state_overview.md                  # 国家概况
+│   ├── constitution.md                    # 国家宪法
 │   ├── central_government.md              # 中央政府框架
 │   ├── ministry_of_magic.md               # 魔法部简介
 │   ├── higher_education.md                # 高等教育机构
-│   ├── transport_hubs.md                  # 主要交通枢纽
 │   ├── orbital_facilities.md              # 空间设施名录
 │   ├── supercomputing_systems.md          # 超级计算系统
-│   └── administrative_summary.md          # 行政区划简表
-├── administrative_divisions.json          # 行政区划数据 (平装 JSON 结构)
-├── json_to_csv.py                         # 数据格式转换工具脚本
-├── constitution.md                        # 国家宪法
+│   ├── administrative_summary.md          # 行政区划简表
+│   └── references.md                      # 参考资料
+├── data/                                  # 数据与原始资料
+│   └── administrative_divisions.json      # 行政区划数据 (平装 JSON 结构)
+├── scripts/                               # 脚本工具
+│   └── json_to_csv.py                     # 数据格式转换工具脚本
 ├── LICENSE                                # 开源许可协议文件
 ├── README.md                              # 中文说明文档
 └── README.en.md                           # 英文说明文档
 ```
+
+### 辅助工具说明: `scripts/json_to_csv.py`
+本仓库提供了一个简单的 Python 脚本，用于将 `data` 目录下的 `administrative_divisions.json` 快速转换为更便于在 Excel 等表格软件中阅读和二次编辑的 CSV 格式（带有可解决中文乱码的 BOM 头）。
+- **运行环境**：需要安装 Python 3 环境（仅依赖标准库，无需安装第三方包）。
+- **使用方法**：在此目录下打开终端，运行命令 `python scripts/json_to_csv.py`，即可在 `data` 目录中生成 `administrative_divisions.csv`。
 
 ## 使用许可
 本设定框架采用 **[CC BY-NC-SA 4.0 许可协议](LICENSE)**。您可以自由使用、修改、分发，但**绝不可用于任何商业或对原作品侵权等违法用途**，且必须遵守以下条件：
