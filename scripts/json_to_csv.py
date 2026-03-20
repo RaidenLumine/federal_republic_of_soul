@@ -11,8 +11,8 @@ import sys
 
 def main():
     base_dir = Path(__file__).parent
-    json_path = base_dir / 'administrative_divisions.json'
-    csv_path = base_dir / 'administrative_divisions.csv'
+    json_path = base_dir.parent / 'data' / 'administrative_divisions.json'
+    csv_path = base_dir.parent / 'data' / 'administrative_divisions.csv'
 
     if not json_path.exists():
         sys.exit(f"错误：未找到文件 {json_path}")
