@@ -66,8 +66,8 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 > This license applies strictly to the **original amalgamated structure and administrative logic** within this repository. All referenced IP elements, their copyrights, and ultimate interpretation rights remain the sole property of their respective copyright holders.
 
 ## About the Author
-- The setting was originally conceptualized in March 2020 (UTC+8) and archived to hosting platforms in March 2026 (UTC+8).
+- The setting was originally conceptualized in March 2020 (UTC+8), the idea of archiving it to a code hosting platform was born onn March 19th, 2026 (UTC+8), and it was subsequently organized and archived in March 2026 (UTC+8).
 - The author views this archive as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for commercial purposes or any copyright infringement activities.**
 
 ---
-*Archival Version: v1.3*
+*Archival Version: v1.4*
