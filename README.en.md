@@ -10,11 +10,11 @@ This setting attempts to answer a question pondered by the author: *"What if civ
 ### Source Inspirations & Integration Framework
 | Domain | Primary Source IP | Examples of Amalgamation |
 | :--- | :--- | :--- |
-| **Core Framework** | *Soul Land* Series | State name, Soul Guidance technology, Shrek Academy |
-| **Elemental System** | *Genshin Impact* | Teyvat State, Elemental energy applications, Seven Nations structure |
-| **Originium Tech** | *Arknights* | Rhodes State, Originium Arts, Mobile City infrastructure |
-| **Magic Admin** | *Harry Potter* Series | Ministry of Magic (Central Govt.), Hogwarts Department of Magic |
-| **Space Tech** | *Honkai: Star Rail* | Cloud Knight military divisions, Orbital/Space station nomenclature |
+| **Core Framework** | *Soul Land* Series | State name, Soul Guidance technology, Shrek Academy, etc. |
+| **Elemental System** | *Genshin Impact* | Teyvat State, Elemental energy applications, Seven Nations structure, etc. |
+| **Originium Tech** | *Arknights* | Arknights State, Originium Arts, Mobile City infrastructure, etc. |
+| **Magic Admin** | *Harry Potter* Series | Ministry of Magic (Central Govt.), Hogwarts Department of Magic, etc. |
+| **Space Tech** | *Honkai: Star Rail* | Cloud Knight military divisions, Orbital/Space station nomenclature, etc. |
 | **Urban Legends** | *Touhou Project* Series | Gensokyo City, Spell Card peacekeeping regulations |
 
 **Typical Amalgamation Cases**:
@@ -52,12 +52,12 @@ FRS/ (Repository Root)
 ```
 
 ## License
-This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material for **non-commercial purposes only**, provided you follow these terms:
+This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material, **but it must absolutely not be used for any commercial purposes or any illegal actions such as copyright infringement of the original works**, provided you follow these terms:
 1. **Attribution**: You must give appropriate credit and indicate that it originated from this archive (by providing a direct link to either the [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) or [Gitee](https://gitee.com/RaidenLumine/federal_republic_of_soul) repository homepage).
 2. **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 > **⚠️ Important Disclaimer**:
-> Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs . **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
+> Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs. **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
 > This license applies strictly to the **original amalgamated structure and administrative logic** within this repository. All referenced IP elements, their copyrights, and ultimate interpretation rights remain the sole property of their respective copyright holders.
 
 ## About the Author
@@ -65,4 +65,4 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 - The author views this project as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for any copyright infringement activities.**
 
 ---
-*Archival Version: v1.1*
+*Archival Version: v1.2*
