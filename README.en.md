@@ -4,9 +4,6 @@
 - This repository is merely a **personal cloud storage space** (it cannot be considered a "project"). It is used to store static setting files for the fictional country "Federal Republic of Soul", born from the **author's wild imagination and whimsical ideas**.
 - It serves strictly as a personal auxiliary backup and sealed record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or releases, **let alone use it for commercial purposes or any copyright infringement activities**.
 
-## Core Concept: Administrative Amalgamation
-This setting attempts to answer a question pondered by the author: *"What if civilizations from multiple fantasy and sci-fi worlds were integrated into a single system, how would it operate?"*
-
 ### Source Inspirations & Integration Framework
 | Domain | Primary Source IP | Examples of Amalgamation |
 | :--- | :--- | :--- |
