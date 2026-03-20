@@ -57,7 +57,7 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 2. **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 > **⚠️ Important Disclaimer**:
-> Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs (e.g., *Soul Land*, *Genshin Impact*). **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
+> Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs . **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
 > This license applies strictly to the **original amalgamated structure and administrative logic** within this repository. All referenced IP elements, their copyrights, and ultimate interpretation rights remain the sole property of their respective copyright holders.
 
 ## About the Author
