@@ -12,7 +12,7 @@
 | **Originium Tech** | *Arknights* | Arknights State, Originium Arts, Mobile City infrastructure, etc. |
 | **Magic Admin** | *Harry Potter* Series | Ministry of Magic (Central Govt.), Hogwarts Department of Magic, etc. |
 | **Space Tech** | *Honkai: Star Rail* | Cloud Knight military divisions, Orbital/Space station nomenclature, etc. |
-| **Urban Legends** | *Touhou Project* Series | Gensokyo City, Spell Card peacekeeping regulations |
+| **Urban Legends** | *Touhou Project* Series | Gensokyo, Spell Card peacekeeping regulations |
 
 **Typical Amalgamation Cases**:
 - **Fatui Shrine**: Designated as a historical and cultural monument, occasionally serving as a special tribunal.
