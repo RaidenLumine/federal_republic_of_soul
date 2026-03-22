@@ -1,3 +1,4 @@
+```text
 斗罗联邦共和国中央国家机构 (Federal Republic of Soul Central State Apparatus)
 │
 ├── 帝国立法院 (Reich’s Legislature)
@@ -19,3 +20,4 @@
 ├── 帝国法院 (Reich’s Courts)
 │
 └── 帝国检察院 (Reich’s Procuratorates)
+```
