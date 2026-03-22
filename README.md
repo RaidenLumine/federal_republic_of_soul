@@ -57,7 +57,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 
 ## 使用许可
 本设定框架采用 **[CC BY-NC-SA 4.0 许可协议](LICENSE)**。您可以自由使用、修改、分发，但**绝不可用于任何商业或对原作品侵权等违法用途**，且必须遵守以下条件：
-1. **署名**：必须注明源于本档案库（需附带指向本项目 [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) 或 [Gitee](https://gitee.com/RaidenLumine/federal_republic_of_soul) 原仓库主页的超链接）。
+1. **署名**：必须注明源于本档案库（需附带指向本项目 [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) 原仓库主页的超链接）。
 2. **相同方式共享**：您的衍生作品必须以相同的许可协议发布。
 
 > **⚠️ 重要免责说明**：

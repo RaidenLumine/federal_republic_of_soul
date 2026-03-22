@@ -57,7 +57,7 @@ This repository provides a simple Python script to quickly convert the `administ
 
 ## License
 This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material, **but it must absolutely not be used for any commercial purposes or any illegal actions such as copyright infringement of the original works**, provided you follow these terms:
-1. **Attribution**: You must give appropriate credit and indicate that it originated from this archive (by providing a direct link to either the [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) or [Gitee](https://gitee.com/RaidenLumine/federal_republic_of_soul) repository homepage).
+1. **Attribution**: You must give appropriate credit and indicate that it originated from this archive (by providing a direct link to either the [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) repository homepage).
 2. **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 > **⚠️ Important Disclaimer**:
