@@ -30,7 +30,7 @@
 
 ## 档案目录结构
 ```text
-FRS/ (Repository Root)
+Federal_Republic_of_Soul/ (Repository Root)
 ├── docs/                                  # 核心设定分册目录
 │   ├── state_overview.md                  # 国家概况
 │   ├── constitution.md                    # 国家宪法

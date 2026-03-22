@@ -30,7 +30,7 @@ The selection of all nouns (including both Chinese and English terminology) with
 
 ## Repository Structure
 ```text
-FRS/ (Repository Root)
+Federal_Republic_of_Soul/ (Repository Root)
 ├── docs/                                  # Core Documentation Directory
 │   ├── state_overview.md                  # State Overview
 │   ├── constitution.md                    # State Constitution
