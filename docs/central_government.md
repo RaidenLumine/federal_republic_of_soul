@@ -17,7 +17,7 @@
 │
 ├── 帝国监察院 (Reich’s Supervisory Council)
 │
-├── 帝国法院 (Reich’s Courts)
+├── 帝国法院 (Reich’s Court)
 │
-└── 帝国检察院 (Reich’s Procuratorates)
+└── 帝国检察院 (Reich’s Procuratorate)
 ```
