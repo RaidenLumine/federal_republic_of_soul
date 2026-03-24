@@ -4,7 +4,7 @@
 - This repository is merely a **personal cloud storage space** (it cannot be considered a "project"). It is used to store static setting files for the fictional country "Federal Republic of Soul", born from the **author's wild imagination and whimsical ideas**.
 - It serves strictly as a personal auxiliary backup and sealed record for worldbuilding. There is no intention to build an active community or provide subsequent maintenance or releases, **let alone use it for commercial purposes or any copyright infringement activities**.
 
-### Source Inspirations & Integration Framework
+### Source Inspirations & Integration Framework (including but not limited to)
 | Domain | Primary Source IP | Examples of Amalgamation |
 | :--- | :--- | :--- |
 | **Core Framework** | *Soul Land* Series | State name, Soul Guidance technology, Shrek Academy, etc. |
@@ -66,8 +66,8 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 > This license applies strictly to the **original amalgamated structure and administrative logic** within this repository. All referenced IP elements, their copyrights, and ultimate interpretation rights remain the sole property of their respective copyright holders.
 
 ## About the Author
-- The setting was originally conceptualized in March 2020 (UTC+8), the idea of archiving it to a code hosting platform was born onn March 19th, 2026 (UTC+8), and it was subsequently organized and archived in March 2026 (UTC+8).
+- The setting was originally conceptualized in March 2020 (UTC+8), the idea of archiving it to a code hosting platform was born on March 19th, 2026 (UTC+8), and it was subsequently organized and archived in March 2026 (UTC+8).
 - The author views this archive as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for commercial purposes or any copyright infringement activities.**
 
 ---
-*Archival Version: v1.4*
+*Archival Version: v1.5*
