@@ -39,6 +39,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── higher_education.md                # Higher Education Institutions
 │   ├── orbital_facilities.md              # Orbital Facilities Directory
 │   ├── supercomputing_systems.md          # Supercomputing Systems
+│   ├── academies_of_sciences.md           # Academies of Sciences
 │   ├── administrative_summary.md          # Administrative Summary
 │   └── references.md                      # References
 ├── data/                                  # Data and Raw Materials

@@ -39,6 +39,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── higher_education.md                # 高等教育机构
 │   ├── orbital_facilities.md              # 空间设施名录
 │   ├── supercomputing_systems.md          # 超级计算系统
+│   ├── academies_of_sciences.md           # 科学院体系
 │   ├── administrative_summary.md          # 行政区划简表
 │   └── references.md                      # 参考资料
 ├── data/                                  # 数据与原始资料
