@@ -14,6 +14,7 @@
 ├── 帝国行政院 (Reich’s Administrative Council)
 │   ├── 外交部 (Ministry of Foreign Affairs)
 │   ├── 国防部 (Ministry of National Defense)
+│   ├── 教育部 (Ministry of Education)
 │   ├── 魔法部 (Ministry of Magic)
 │   ├── 科学技术部 (Ministry of Science and Technology)
 │   ├── 工业和信息化部 (Ministry of Industry and Information Technology)
