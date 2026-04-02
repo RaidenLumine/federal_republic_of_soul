@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 工具脚本：将本仓库的 administrative_divisions.json 转换为 CSV 格式。
-Usage: python json_to_csv.py
+Usage: python json_to_csv.py [input_json] [output_csv]
 """
 import json
 import csv

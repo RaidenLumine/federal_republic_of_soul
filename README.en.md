@@ -39,22 +39,25 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── higher_education.md                # Higher Education Institutions
 │   ├── orbital_facilities.md              # Orbital Facilities Directory
 │   ├── supercomputing_systems.md          # Supercomputing Systems
-│   ├── academies_of_sciences.md           # Academies of Sciences
+│   ├── academy_of_sciences.md             # Academies of Sciences
 │   ├── administrative_summary.md          # Administrative Summary
 │   └── references.md                      # References
 ├── data/                                  # Data and Raw Materials
 │   └── administrative_divisions.json      # Administrative divisions data (Flat JSON)
 ├── scripts/                               # Script Tools
-│   └── json_to_csv.py                     # Data format conversion script
+│   ├── json_to_csv.py                     # JSON-to-CSV conversion script
+│   └── csv_to_json.py                     # CSV-to-JSON conversion script
 ├── LICENSE                                # Open Source License
 ├── README.md                              # Documentation in Chinese
 └── README.en.md                           # Documentation in English
 ```
 
-### Auxiliary Tool: `scripts/json_to_csv.py`
-This repository provides a simple Python script to quickly convert the `administrative_divisions.json` located in the `data` directory into a CSV format (with a BOM header to prevent Chinese character garbling), which is easier to read and edit in spreadsheet software like Excel.
+### Auxiliary Tools
+This repository provides two simple Python scripts for two-way conversion between `data/administrative_divisions.json` and `data/administrative_divisions.csv`.
 - **Environment**: Requires Python 3 (relies only on standard libraries, no third-party packages needed).
-- **Usage**: Open a terminal in this directory and run `python scripts/json_to_csv.py`. It will generate an `administrative_divisions.csv` file within the `data` directory.
+- **JSON to CSV**: Run `python scripts/json_to_csv.py`. It will generate `data/administrative_divisions.csv` with a UTF-8 BOM header for better Excel compatibility.
+- **CSV to JSON**: Run `python scripts/csv_to_json.py`. It will convert `data/administrative_divisions.csv` back into `data/administrative_divisions.json`.
+- **Custom paths**: `csv_to_json.py` also supports explicit input and output paths, for example `python scripts/csv_to_json.py data/administrative_divisions.csv data/administrative_divisions.custom.json`.
 
 ## License
 This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material, **but it must absolutely not be used for any commercial purposes or any illegal actions such as copyright infringement of the original works**, provided you follow these terms:

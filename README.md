@@ -39,22 +39,25 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── higher_education.md                # 高等教育机构
 │   ├── orbital_facilities.md              # 空间设施名录
 │   ├── supercomputing_systems.md          # 超级计算系统
-│   ├── academies_of_sciences.md           # 科学院体系
+│   ├── academy_of_sciences.md             # 科学院体系
 │   ├── administrative_summary.md          # 行政区划简表
 │   └── references.md                      # 参考资料
 ├── data/                                  # 数据与原始资料
 │   └── administrative_divisions.json      # 行政区划数据 (平装 JSON 结构)
 ├── scripts/                               # 脚本工具
-│   └── json_to_csv.py                     # 数据格式转换工具脚本
+│   ├── json_to_csv.py                     # JSON 转 CSV 脚本
+│   └── csv_to_json.py                     # CSV 转 JSON 脚本
 ├── LICENSE                                # 开源许可协议文件
 ├── README.md                              # 中文说明文档
 └── README.en.md                           # 英文说明文档
 ```
 
-### 辅助工具说明: `scripts/json_to_csv.py`
-本仓库提供了一个简单的 Python 脚本，用于将 `data` 目录下的 `administrative_divisions.json` 快速转换为更便于在 Excel 等表格软件中阅读和二次编辑的 CSV 格式（带有可解决中文乱码的 BOM 头）。
+### 辅助工具说明
+本仓库提供了两个简单的 Python 脚本，用于在 `data/administrative_divisions.json` 与 `data/administrative_divisions.csv` 之间进行双向转换。
 - **运行环境**：需要安装 Python 3 环境（仅依赖标准库，无需安装第三方包）。
-- **使用方法**：在此目录下打开终端，运行命令 `python scripts/json_to_csv.py`，即可在 `data` 目录中生成 `administrative_divisions.csv`。
+- **JSON 转 CSV**：运行 `python scripts/json_to_csv.py`，即可在 `data` 目录中生成 `administrative_divisions.csv`。输出文件带有 UTF-8 BOM 头，便于使用 Excel 打开。
+- **CSV 转 JSON**：运行 `python scripts/csv_to_json.py`，即可将 `data/administrative_divisions.csv` 转回 `data/administrative_divisions.json`。
+- **自定义路径**：`csv_to_json.py` 也支持传入输入和输出路径，例如 `python scripts/csv_to_json.py data/administrative_divisions.csv data/administrative_divisions.custom.json`。
 
 ## 使用许可
 本设定框架采用 **[CC BY-NC-SA 4.0 许可协议](LICENSE)**。您可以自由使用、修改、分发，但**绝不可用于任何商业或对原作品侵权等违法用途**，且必须遵守以下条件：
