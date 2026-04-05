@@ -1,5 +1,4 @@
 # .gitignore
-*.csv
 __pycache__/
 .vscode/
 .DS_Store
