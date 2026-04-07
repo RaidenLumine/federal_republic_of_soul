@@ -25,7 +25,7 @@
 │   ├── 司法部 (Ministry of Justice)
 │   ├── 农业农村部 (Ministry of Agriculture and Rural Affairs)
 │   ├── 应急管理部 (Ministry of Emergency Management)
-│   ├── 斗罗联邦中央银行 (The central Bank of Soul)
+│   ├── 斗罗联邦中央银行 (The Central Bank of Soul)
 │   └── (其他部门)
 │
 ├── 帝国军事委员会 (Reich’s Military Commission)
