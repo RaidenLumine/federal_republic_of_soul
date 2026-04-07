@@ -7,13 +7,13 @@
 - 第一章　总纲
 - 第二章　公民的基本权利和义务
 - 第三章　国家机构
-    - 第一节　帝国立法院 (Reich’s Legislature)
-    - 第二节　斗罗联邦共和国帝国凯撒 (Reich’s Caesar, FRS)
-    - 第三节　帝国行政院 (Reich’s Administrative Council)
-    - 第四节　帝国军事委员会 (Reich’s Military Commission)
+    - 第一节　帝国立法院 (Reich's Legislature)
+    - 第二节　斗罗联邦共和国帝国凯撒 (Reich's Caesar of the Federal Republic of Soul)
+    - 第三节　帝国行政院 (Reich's Administrative Council)
+    - 第四节　帝国军事委员会 (Reich's Military Commission)
     - 第五节　地方各级帝国立法院和地方各级帝国政府
-    - 第六节　帝国监察院 (Reich’s Supervisory Council)
-    - 第七节　帝国法院和帝国检察院 (Reich’s Court and Reich’s Procuratorate)
+    - 第六节　帝国监察院 (Reich's Supervisory Council)
+    - 第七节　帝国法院和帝国检察院 (Reich's Court and Reich's Procuratorate)
 - 第四章　国旗、国歌、国徽、首都
 
 
