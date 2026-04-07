@@ -19,6 +19,11 @@
 - 特点：理工科顶尖
 - 备注：与明德堂深度合作
 
+#### 日月皇家魂导大学 (Sun-moon Royal University of Soul Guidance)
+- 地点：明都/日月
+- 特点：魂导技术前沿
+- 备注：传统强校
+
 #### 长点上机大学 (Nagatenjouki University)
 - 地点：学园都市
 - 特点：综合研究型
@@ -42,6 +47,11 @@
 #### 星罗帝国大学 (University of Hsinrow Empire)
 - 地点：星罗州/星罗
 - 特点：综合研究型
+- 备注：传统强校
+
+#### 小马利亚皇家大学 (Royal University of Equestria)
+- 地点：小马利亚州/坎特洛特
+- 特点：魔法专门
 - 备注：传统强校
 
 #### 霍格沃茨魔法学校 (Hogwarts School of Witchcraft and Wizardry)
