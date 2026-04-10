@@ -74,4 +74,4 @@ This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You a
 - The author views this archive as a "sealed specimen of a thought experiment". **There is no maintenance plan, and no feedback or communication channels are provided, let alone use it for commercial purposes or any copyright infringement activities.**
 
 ---
-*Archival Version: v1.5*
+*Archival Version: v1.6*
