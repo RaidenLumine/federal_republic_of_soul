@@ -111,7 +111,7 @@
 | 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
 |---|---|---|
 | 赫尔卡城（Helca City） |  | 赫尔卡城：花仙州首府 |
-| 洛克城（Roco City） |  |  |
+| 卡洛西亚（Carosia） | 洛克城 |  |
 | 比奇堡（Bikiniburg） |  |  |
 | 浮空城（Floating City） |  |  |
 | 奥拉城（Aolah City） | 奥奇、奥义、奥比 |  |
