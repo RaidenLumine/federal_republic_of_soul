@@ -44,6 +44,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── airports.md                        # 全国部分机场简述
 │   └── references.md                      # 参考资料
 ├── data/                                  # 数据与原始资料
+│   ├── administrative_divisions.csv       # 行政区划数据 (CSV 格式)
 │   └── administrative_divisions.json      # 行政区划数据 (平装 JSON 结构)
 ├── scripts/                               # 脚本工具
 │   ├── json_to_csv.py                     # JSON 转 CSV 脚本
