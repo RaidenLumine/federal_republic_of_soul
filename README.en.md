@@ -41,6 +41,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── supercomputing_systems.md          # Supercomputing Systems
 │   ├── academy_of_sciences.md             # Academies of Sciences
 │   ├── administrative_summary.md          # Administrative Summary
+│   ├── airports.md                        # Overview of Major Airports
 │   └── references.md                      # References
 ├── data/                                  # Data and Raw Materials
 │   └── administrative_divisions.json      # Administrative divisions data (Flat JSON)

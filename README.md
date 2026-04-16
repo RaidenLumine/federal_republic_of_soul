@@ -41,6 +41,7 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── supercomputing_systems.md          # 超级计算系统
 │   ├── academy_of_sciences.md             # 科学院体系
 │   ├── administrative_summary.md          # 行政区划简表
+│   ├── airports.md                        # 全国部分机场简述
 │   └── references.md                      # 参考资料
 ├── data/                                  # 数据与原始资料
 │   └── administrative_divisions.json      # 行政区划数据 (平装 JSON 结构)
