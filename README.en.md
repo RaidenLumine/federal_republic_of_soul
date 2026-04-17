@@ -43,23 +43,10 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── administrative_summary.md          # Administrative Summary
 │   ├── airports.md                        # Overview of Major Airports
 │   └── references.md                      # References
-├── data/                                  # Data and Raw Materials
-│   ├── administrative_divisions.csv       # Administrative divisions data (CSV format)
-│   └── administrative_divisions.json      # Administrative divisions data (Flat JSON)
-├── scripts/                               # Script Tools
-│   ├── json_to_csv.py                     # JSON-to-CSV conversion script
-│   └── csv_to_json.py                     # CSV-to-JSON conversion script
 ├── LICENSE                                # Open Source License
 ├── README.md                              # Documentation in Chinese
 └── README.en.md                           # Documentation in English
 ```
-
-### Auxiliary Tools
-This repository provides two simple Python scripts for two-way conversion between `data/administrative_divisions.json` and `data/administrative_divisions.csv`.
-- **Environment**: Requires Python 3 (relies only on standard libraries, no third-party packages needed).
-- **JSON to CSV**: Run `python scripts/json_to_csv.py`. It will generate `data/administrative_divisions.csv` with a UTF-8 BOM header for better Excel compatibility.
-- **CSV to JSON**: Run `python scripts/csv_to_json.py`. It will convert `data/administrative_divisions.csv` back into `data/administrative_divisions.json`.
-- **Custom paths**: `csv_to_json.py` also supports explicit input and output paths, for example `python scripts/csv_to_json.py data/administrative_divisions.csv data/administrative_divisions.custom.json`.
 
 ## License
 This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material, **but it must absolutely not be used for any commercial purposes or any illegal actions such as copyright infringement of the original works**, provided you follow these terms:

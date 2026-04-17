@@ -43,23 +43,10 @@ Federal_Republic_of_Soul/ (Repository Root)
 │   ├── administrative_summary.md          # 行政区划简表
 │   ├── airports.md                        # 全国部分机场简述
 │   └── references.md                      # 参考资料
-├── data/                                  # 数据与原始资料
-│   ├── administrative_divisions.csv       # 行政区划数据 (CSV 格式)
-│   └── administrative_divisions.json      # 行政区划数据 (平装 JSON 结构)
-├── scripts/                               # 脚本工具
-│   ├── json_to_csv.py                     # JSON 转 CSV 脚本
-│   └── csv_to_json.py                     # CSV 转 JSON 脚本
 ├── LICENSE                                # 开源许可协议文件
 ├── README.md                              # 中文说明文档
 └── README.en.md                           # 英文说明文档
 ```
-
-### 辅助工具说明
-本仓库提供了两个简单的 Python 脚本，用于在 `data/administrative_divisions.json` 与 `data/administrative_divisions.csv` 之间进行双向转换。
-- **运行环境**：需要安装 Python 3 环境（仅依赖标准库，无需安装第三方包）。
-- **JSON 转 CSV**：运行 `python scripts/json_to_csv.py`，即可在 `data` 目录中生成 `administrative_divisions.csv`。输出文件带有 UTF-8 BOM 头，便于使用 Excel 打开。
-- **CSV 转 JSON**：运行 `python scripts/csv_to_json.py`，即可将 `data/administrative_divisions.csv` 转回 `data/administrative_divisions.json`。
-- **自定义路径**：`csv_to_json.py` 也支持传入输入和输出路径，例如 `python scripts/csv_to_json.py data/administrative_divisions.csv data/administrative_divisions.custom.json`。
 
 ## 使用许可
 本设定框架采用 **[CC BY-NC-SA 4.0 许可协议](LICENSE)**。您可以自由使用、修改、分发，但**绝不可用于任何商业或对原作品侵权等违法用途**，且必须遵守以下条件：
