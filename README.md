@@ -32,7 +32,6 @@
 ```text
 Federal_Republic_of_Soul/ (Repository Root)
 ├── docs/                                  # 核心设定分册目录
-│   ├── state_overview.md                  # 国家概况
 │   ├── constitution.md                    # 国家宪法
 │   ├── central_government.md              # 中央政府框架
 │   ├── ministry_of_magic.md               # 魔法部简介

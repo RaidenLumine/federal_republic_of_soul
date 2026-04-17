@@ -32,7 +32,6 @@ The selection of all nouns (including both Chinese and English terminology) with
 ```text
 Federal_Republic_of_Soul/ (Repository Root)
 ├── docs/                                  # Core Documentation Directory
-│   ├── state_overview.md                  # State Overview
 │   ├── constitution.md                    # State Constitution
 │   ├── central_government.md              # Central Government Framework
 │   ├── ministry_of_magic.md               # Ministry of Magic Introduction
