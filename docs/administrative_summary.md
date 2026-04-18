@@ -176,7 +176,7 @@
 | 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
 |---|---|---|
 | 帝江（Dijiang） |  | 帝江：未央州首府 |
-| 宏山（Hongshan） | 武陵、景玉、清波 |  |
+| 宏山（Hongshan） | 宏山科学院、武陵、清波 |  |
 | 菈梵朵玛 |  |  |
 | 塞什卡 |  |  |
 | 耶尔什 |  |  |
