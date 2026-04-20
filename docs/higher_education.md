@@ -81,7 +81,7 @@
 - 特点：生物科技顶尖
 - 备注：魔法部直属，崩坏能研究与开发的前沿
 
-#### 大炎天师府大学 (University of Yen Tianshi Bureau Academy)
+#### 大炎天师府大学 (University of Yen Tianshi Bureau)
 - 地点：明日州/炎国/百灶区
 - 特点：综合研究型
 - 备注：工业与信息化部直属，源石科技研究重点，巨兽学研究前沿
@@ -91,7 +91,7 @@
 - 特点：理工科和生物科技顶尖
 - 备注：宏山科学院直属，源石技艺研究前沿
 
-#### 武陵天师府大学 (University of Wuling Tianshi Bureau Academy)
+#### 武陵天师府大学 (University of Wuling Tianshi Bureau)
 - 地点：未央州/宏山/武陵区
 - 特点：综合研究型
 - 备注：宏山科学院直属，息壤工业研究前沿
