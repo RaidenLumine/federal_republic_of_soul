@@ -15,7 +15,7 @@
 | **Urban Legends** | *Touhou Project* Series | Gensokyo, Spell Card peacekeeping regulations |
 
 **Typical Amalgamation Cases**:
-- **Fatui Shrine**: Designated as a historical and cultural monument, occasionally serving as a special tribunal.
+- **Fatui Shrine**: Designated as a historical and cultural monument, occasionally serving as a special venue for tribunal proceedings.
 - **Ministry of Magic**: A core department under the Imperial Executive Yuan, featuring various localized sub-departments to vertically manage and regulate distinct magic systems from different cultural backgrounds.
 
 ## Note on Terminology and Translation
