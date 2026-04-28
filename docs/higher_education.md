@@ -91,7 +91,7 @@
 - 特点：元素科学顶尖
 - 备注：魔法部直属，元素能量研究与应用的权威
 
-#### 枫丹政法大学 (University of Fontaine Law and Politics)
+#### 枫丹政法大学 (Fontaine University of Political Science and Law)
 - 地点：提瓦特州/枫丹/枫丹廷区
 - 特点：法学与政治学专门
 - 备注：教育部直属，法学与政治学研究前沿
