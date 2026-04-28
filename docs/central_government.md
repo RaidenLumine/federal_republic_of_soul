@@ -22,6 +22,7 @@
 │   ├── 国安部 (Ministry of State Security)
 │   ├── 财政部 (Ministry of Finance)
 │   ├── 民政部 (Ministry of Civil Affairs)
+│   ├── 公共卫生部 (Ministry of Public Health)
 │   ├── 司法部 (Ministry of Justice)
 │   ├── 农业农村部 (Ministry of Agriculture and Rural Affairs)
 │   ├── 应急管理部 (Ministry of Emergency Management)
