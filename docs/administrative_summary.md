@@ -69,6 +69,7 @@
 | 花千屿（Florasia） | 雪城 |  |
 | 拉贝尔（Rabel） | 古灵仙、黄海、勇气 |  |
 | 帕拉尼（Parani） |  |  |
+| 海州（Haizhou） | 爱神宫、龙麟 |  |
 
 ## 小马利亚州（Equestria State）
 
