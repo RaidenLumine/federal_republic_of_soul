@@ -69,7 +69,7 @@
 | 花千屿（Florasia） | 雪城 |  |
 | 拉贝尔（Rabel） | 古灵仙、黄海、勇气 |  |
 | 帕拉尼（Parani） |  |  |
-| 海州（Haizhou） | 爱神宫、龙麟 |  |
+| 海州（Haizhou） | 爱神宫、龙麟、凤城 |  |
 
 ## 小马利亚州（Equestria State）
 
@@ -125,7 +125,7 @@
 
 | 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
 |---|---|---|
-| 天空岛（Celestia） |  | 天空岛：提瓦特州首府 |
+| 天空岛（Celestia） | 王座、空之神殿 | 天空岛：提瓦特州首府 |
 | 蒙德（Mondsdalt） | 新蒙德、晨曦、芬德尼尔、明冠、千风、达达乌帕、荆夫 |  |
 | 璃月（Liyue） | 云来、轻策、归离、珉林、璃沙、琅玕、沉玉、黑岩 |  |
 | 稻妻（Inazuma） | 鸣神、海祇、清籁、八酝、鹤观、踏鞴、白夜 |  |
