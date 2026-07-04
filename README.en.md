@@ -48,11 +48,6 @@ Federal_Republic_of_Soul/ (Repository Root)
 └── README.en.md                           # Documentation in English
 ```
 
-## License
-This setting is licensed under the **[CC BY-NC-SA 4.0 License](LICENSE)**. You are free to share, adapt, and build upon the material, **but it must absolutely not be used for any commercial purposes or any illegal actions such as copyright infringement of the original works**, provided you follow these terms:
-1. **Attribution**: You must give appropriate credit and indicate that it originated from this archive (by providing a direct link to either the [GitHub](https://github.com/RaidenLumine/federal_republic_of_soul) repository homepage).
-2. **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
-
 > **⚠️ Important Disclaimer**:
 > This project is an **unofficial, non-profit, fan-made project**.
 > Many setting elements in this repository are not entirely original, but rather recontextualizations and amalgamations of multiple existing IPs. **Therefore, unless you sufficiently adapt and originally reconstruct these elements, direct use or derivation may involve copyright issues. We strongly recommend that when creating works based on this setting, you sufficiently adapt, reshape, or generalize the elements you use from specific IPs, stripping them of the defining characteristics of the original IPs to form new, highly original works.**
