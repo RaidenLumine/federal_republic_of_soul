@@ -21,6 +21,7 @@
 | 镜像伦敦大型试验场（SCP-1678 Large Scale Experiment Station） | 镜像伦敦（SCP-1678） |  |  |
 | 阿斯加德特别市（Asgard Special City） | 阿斯加德（Asgard） |  |  |
 | 新艾利都特别市（New Eridu Special City） | 新艾利都（New Eridu） | 丽都、旧都、澄辉、芭莱、星环、云岿 |  |
+| 望月站 (Moongazer Station) | 望月 (Moogazer) | 伊比尼伯龙站、乌吉恩站、努尔寂石站、月荡海站、尼伯龙根站 | 月球基地望月站是斗罗联邦共和国在月球上建设的大型月球科考站 |
 
 ## 天斗州（Tantow State）
 
@@ -160,6 +161,7 @@
 |---|---|---|
 | 罗德岛（Rhodes Island） |  | 罗德岛：明日州首府 |
 | 炎国（Yen） | 百灶、龙门、尚蜀、玉门、勾吴、姜齐、大荒 |  |
+| 东国 (Higashi) | |
 | 谢拉格（Kjerag） | 图里卡姆、马特洪、喀兰 |  |
 | 维多利亚（Victoria） | 伦蒂尼姆、多伦、阿斯卡拉、塞克、特伦特、布伦特伍德、格瑞威治、丽茵卡登、博森德尔 |  |
 | 乌萨斯（Ursus） | 圣骏堡、切尔诺伯格、布列洁诺伊、格里高利、格里高利 |  |
