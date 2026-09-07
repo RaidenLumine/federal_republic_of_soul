@@ -3,8 +3,8 @@
 ---
 
 ## 概述
-- 斗罗联邦共和国在行政区划上分为五个中央辖区和十个州级行政区，每个州级行政区下设若干市级行政区和县级行政区。
-- 中央辖区由联邦政府直接管理，州级行政区由州政府管理，市级行政区和县级行政区由地方政府管理。
+- 斗罗联邦共和国在行政区划上分为六个中央辖区和十个州级行政区，每个州级行政区下设若干市级行政区和区级行政区。
+- 中央辖区由联邦政府直接管理，州级行政区由州政府管理，市级行政区和区级行政区由地方政府管理。
 - 各级行政区划的设立和调整由联邦政府根据国家发展需要和地方实际情况进行规划和实施。
 - 各个行政区在宪法和法律允许的情况下，可以充分发挥主动性和创造性，推动地方经济社会发展，维护社会稳定和国家统一。
 
@@ -14,7 +14,7 @@
 
 ## 中央辖区（Central Jurisdiction）
 
-| 州级行政区(State Administration) | 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 辖区全名(Jurisdiction's Name) | 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|---|
 | 明都特别市（Sun-Moon Center Special City） | 明都（Sun-moon Center） | 王畿、日月、皓月、明德、传灵 | 明都：斗罗联邦共和国首都 |
 | 学园都市特别行政区（Academy City Special Administrative Region） | 学园都市（Academy City） | 上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春 | 学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立 |
@@ -25,7 +25,7 @@
 
 ## 天斗州（Tantow State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 天斗（Tantow） | 蓝皇、琉璃 | 天斗：天斗州首府 |
 | 史莱克城（Shrek City） | 永恒、灵冰、蓝银 |  |
@@ -43,7 +43,7 @@
 
 ## 星罗州（Hsinrow State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 星罗（Hsinrow） | 白虎、幽冥、昊天 | 星罗：星罗州首府 |
 | 哥谭（Gotham） |  |  |
@@ -60,7 +60,7 @@
 
 ## 森罗州（Hsenrow State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 森罗（Hsenrow） |  | 森罗：森罗州首府 |
 | 绯村（Himura） | 神谷、相乐、明神、斋藤、高荷、比古、雪代、卷町 |  |
@@ -75,7 +75,7 @@
 
 ## 小马利亚州（Equestria State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 坎特洛特（Canterlot） |  | 坎特洛特：小马利亚州首府 |
 | 小马谷（Ponyville） |  |  |
@@ -93,7 +93,7 @@
 
 ## 圣梅林州（Saint Merlin State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 霍格沃茨（Hogvarts） | 斯莱特林、格兰芬多、赫奇帕奇、拉文克劳 | 霍格沃茨：圣梅林州首府 |
 | 圣梅林城（Saint Merlin City） |  |  |
@@ -111,7 +111,7 @@
 
 ## 花仙州（Flower Angel State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 赫尔卡城（Helca City） |  | 赫尔卡城：花仙州首府 |
 | 卡洛西亚（Calosia） | 洛克城 |  |
@@ -125,7 +125,7 @@
 
 ## 提瓦特州（Teyvat State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 天空岛（Celestia） | 王座、空之神殿 | 天空岛：提瓦特州首府 |
 | 蒙德（Mondsdalt） | 新蒙德、晨曦、芬德尼尔、明冠、千风、达达乌帕、荆夫 |  |
@@ -140,7 +140,7 @@
 
 ## 圣芙蕾雅州 (Saint Freya State)
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 圣芙蕾雅（Saint Freya） | 卡斯兰娜、阿波卡利斯、芙乐艾、扎伊切克、阿塔吉娜、洛丝薇瑟 | 圣芙蕾雅: 圣芙蕾雅州首府 |
 | 庇尔波因特（Pierpoint） | 钻石、砂金、翡翠、托帕、琥珀、龙晶、苍刚、真珠、舒俱、欧珀、玛瑙 |  |
@@ -158,7 +158,7 @@
 
 ## 明日州（Arknights State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 罗德岛（Rhodes Island） |  | 罗德岛：明日州首府 |
 | 炎国（Yen） | 百灶、龙门、尚蜀、玉门、勾吴、姜齐、大荒 |  |
@@ -177,12 +177,13 @@
 
 ## 未央州（Endfield State）
 
-| 市级行政区(City Administration) | 县级行政区(County Administration) | 备注（Notes） |
+| 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|
 | 帝江（Dijiang） | 终末地、工团谷 | 帝江：未央州首府 |
-| 宏山（Hongshan） | 宏山科学院、武陵、清波 |  |
+| 武陵（Wuling） | 武陵城、清波、应龙、北武陵 |  |
 | 菈梵朵玛 (La Fantoma) |  |  |
 | 塞什卡 |  |  |
 | 耶尔什 |  |  |
 | 合金萝卜城 |  |  |
+| 萨米维格 |  |  |
 ---
