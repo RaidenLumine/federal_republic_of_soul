@@ -57,9 +57,24 @@
 - 备注：教育部、国防部直属，星癌体研究前沿
 
 #### 斗罗联邦共和国国防科技大学 (National Defense Science and Technology University of the Federal Republic of Soul)
-- 地点：星罗州/绯村/神谷区
+- 地点：森罗州/绯村/神谷区
 - 特点：军事与国防科技专门
 - 备注：国防部直属，军事科技研究前沿
+
+#### 国立千叶大学 (National University of Chiba)
+- 地点：森罗州/新千叶/比企谷区
+- 特点：人文社科强校
+- 备注：教育部直属
+
+#### 雪之下理工大学 (Yikinoshika University of Technology)
+- 地点：森罗州/新千叶/雪之下区
+- 特点：区域理工重点高校
+- 备注：教育部直属
+
+#### 森罗政法大学 (Hsenrow University of Political Science and Law)
+- 地点：森罗州/新千叶/叶山区
+- 特点：法学与政治学专门
+- 备注：教育部直属
 
 #### 坎特洛特皇家大学 (Royal University of Canterlot)
 - 地点：小马利亚州/坎特洛特

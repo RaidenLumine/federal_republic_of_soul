@@ -14,13 +14,13 @@
 
 ## 中央辖区（Central Jurisdiction）
 
-| 辖区全名(Jurisdiction's Name) | 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
+| 辖区名称(Jurisdiction's Name) | 市级行政区(City Administration) | 区级行政区(District Administration) | 备注（Notes） |
 |---|---|---|---|
-| 明都特别市（Sun-Moon Center Special City） | 明都（Sun-moon Center） | 王畿、日月、皓月、明德、传灵 | 明都：斗罗联邦共和国首都 |
+| 明都特别市（Sun-Moon Center Special City） | 明都（Sun-moon Center） | 王畿、日月、皓月、明德、北狩 | 明都：斗罗联邦共和国首都 |
 | 学园都市特别行政区（Academy City Special Administrative Region） | 学园都市（Academy City） | 上条、垣根、御坂、麦野、食蜂、削坂、佐天、白井、初春 | 学园都市特别行政区根据《斗罗联邦共和国学园都市特别行政区基本法》依法设立 |
 | 镜像伦敦大型试验场（SCP-1678 Large Scale Experiment Station） | 镜像伦敦（SCP-1678） |  |  |
 | 阿斯加德特别市（Asgard Special City） | 阿斯加德（Asgard） |  |  |
-| 新艾利都特别市（New Eridu Special City） | 新艾利都（New Eridu） | 丽都、旧都、澄辉、芭莱、星环、云岿 |  |
+| 新艾利都特别市（New Eridu Special City） | 新艾利都（New Eridu） | 丽都、旧都、澄辉、云岿、罗斯凯利法 |  |
 | 望月站 (Moongazer Station) | 望月 (Moogazer) | 伊比尼伯龙站、乌吉恩站、努尔寂石站、月荡海站、尼伯龙根站 | 月球基地望月站是斗罗联邦共和国在月球上建设的大型月球科考站 |
 
 ## 天斗州（Tantow State）
@@ -49,12 +49,12 @@
 | 哥谭（Gotham） |  |  |
 | 汉川（Hanchuan） | 江东、沧海 |  |
 | 丘枫（Qiufeng） | 枫兰、桑田、山阴 |  |
-| 梦都（Mewyatype） | 仲町、峰月、千石、宫永、藤都 |  |
+| 梦都（Mewyatype） | 仲町、峰月、千石、宫永、迷藤 |  |
 | 赤霄（Akaisho） | 茅森、和泉、东城、丰后、樋口、逢川、立华 |  |
 | 圭都（Guidu） |  |  |
 | 阿朱罗（Ashura） | 百夜、一濑、亚瑟拉、克鲁鲁、弗里德 |  |
 | 天穹（Tianqiong） |  |  |
-| 出云（Izumo） | 高天原、忘川 |  |
+| 出云（Izumo） |  |  |
 | 望北（Wangbei） |  |  |
 | 涂山（Tushan） | 白月、王权、东方 |  |
 
@@ -65,11 +65,12 @@
 | 森罗（Hsenrow） |  | 森罗：森罗州首府 |
 | 绯村（Himura） | 神谷、相乐、明神、斋藤、高荷、比古、雪代、卷町 |  |
 | 紫罗兰城（Violet City） | 鸢尾、栀子、月季、三角梅、滇丁香 |  |
-| 樱庭（Sakuraba） | 樱岛、折木、六花、梓川、比企谷、雪之下、温水、千反田、富樫 |  |
+| 樱庭（Sakuraba） | 樱岛、折木、六花、梓川、温水、千反田、富樫 |  |
 | 言叶（Kotonoha） | 立花、宫水、森岛、天野、铃芽、西宫 |  |
+| 新千叶 (New Chiba) | 比企谷、雪之下、由比滨、一色、叶山、户冢、平冢、鹤见、海老名 | |
 | 花港（Floraport） | 山茶花、九苍、风信子、勿忘我、蔷薇、曼陀罗、圣罗勒 |  |
 | 花千屿（Florasia） | 雪城 |  |
-| 拉贝尔（Rabel） | 古灵仙、黄海、勇气 |  |
+| 拉贝尔（Rabel） | 花仙堡、古灵仙、风沙、勇气 |  |
 | 帕拉尼（Parani） |  |  |
 | 海州（Haizhou） | 爱神宫、龙麟、凤城 |  |
 
