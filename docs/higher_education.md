@@ -66,7 +66,7 @@
 - 特点：人文社科强校
 - 备注：教育部直属
 
-#### 雪之下理工大学 (Yikinoshika University of Technology)
+#### 雪之下理工大学 (Yukinoshika University of Technology)
 - 地点：森罗州/新千叶/雪之下区
 - 特点：区域理工重点高校
 - 备注：教育部直属
